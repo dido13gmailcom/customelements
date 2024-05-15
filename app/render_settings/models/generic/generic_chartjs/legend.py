@@ -1,0 +1,161 @@
+from render_settings.models.generic.generic_chartjs.get_font_module import get_font_module
+
+legend: dict = {
+    "id":"legend",
+    "name":"Llegenda",
+    "groups":[
+        {
+            "name":"Visibilitat",
+            "categories":[
+                {
+                    "name":"",
+                    "description":"",
+                    "properties":[
+                        {
+                            "id":"legend-show",
+                            "name":"Mostra/Amaga",
+                            "description":"",
+                            "type":"state",
+                            "default":"true",
+                            "choices":[
+                                {
+                                    "id":"true",
+                                    "name":"Mostra",
+                                    "description":""
+                                },
+                                {
+                                    "id":"false",
+                                    "name":"Amaga",
+                                    "description":""
+                                }
+                            ]
+                        },
+                        {
+                            "id":"legend-position",
+                            "name":"Posició",
+                            "description":"",
+                            "type":"state",
+                            "default":"bottom",
+                            "choices":[
+                                {
+                                    "id":"top",
+                                    "name":"Superior",
+                                    "description":""
+                                },
+                                {
+                                    "id":"left",
+                                    "name":"Esquerra",
+                                    "description":""
+                                },
+                                {
+                                    "id":"right",
+                                    "name":"Dreta",
+                                    "description":""
+                                },
+                                {
+                                    "id":"bottom",
+                                    "name":"Inferior",
+                                    "description":""
+                                }
+                            ]
+                        },
+                        {
+                            "id":"legend-font-size",
+                            "name":"Mida del text",
+                            "description":"",
+                            "type":"integer",
+                            "default":"10"
+                        }
+                    ]
+                } 
+            ]
+        },
+        {
+            "name":"Títol llegenda",
+            "categories":[
+                {
+                    "name":"",
+                    "description":"",
+                    "properties":[
+                        {
+                            "id":"legend-title",
+                            "name":"Títol",
+                            "description":"",
+                            "type":"string",
+                            "default":""
+                        },
+                        {
+                            "id":"legend-title-font-size",
+                            "name":"Mida del text (títol)",
+                            "description":"",
+                            "type":"integer",
+                            "default":"10"
+                        },
+                        {
+                            "id":"legend-title-font-weight",
+                            "name":"Tipus de font (títol)",
+                            "description":"",
+                            "type":"state",
+                            "default":"bold",
+                            "choices":[
+                                {
+                                    "id":"lighter",
+                                    "name":"Lleuger",
+                                    "description":""
+                                },
+                                {
+                                    "id":"normal",
+                                    "name":"Normal",
+                                    "description":""
+                                },
+                                {
+                                    "id":"bold",
+                                    "name":"Negreta",
+                                    "description":""
+                                }
+                            ]
+                        }
+                    ]
+                }    
+            ]
+        },
+
+        {
+            "name":"Força categories (separat per |)",
+            "categories":[
+                {
+                    "name":"",
+                    "description":"",
+                    "properties":[
+                        {
+                            "id":"legend-category-force",
+                            "name":"Llista de categories",
+                            "description":"Força l'aparició de les categories especificades tot i que no presentin valors en les dades",
+                            "type":"string",
+                            "default":""
+                        }
+                    ]
+                }    
+            ]
+        },
+
+        {
+            "name":"Força colors (separat per |)",
+            "categories":[
+                {
+                    "name":"",
+                    "description":"",
+                    "properties":[
+                        {
+                            "id":"legend-color-force",
+                            "name":"Categoria:color",
+                            "description":"Força colors segons nom de categoria. L'estructura segueix la forma Categoria:Color,Categoria:Color,... El color pot ser en hexadecimal o en hexadecimal amb transparència",
+                            "type":"string",
+                            "default":""
+                        }
+                    ]
+                }    
+            ]
+        }
+    ]
+}

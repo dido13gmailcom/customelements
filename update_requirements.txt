@@ -1,0 +1,4 @@
+-- Canvia les rutes: 
+-- En aquest exemple, s''agafa l''executable de Python i es fa un pur al current directory de la terminal (on hi ha el requirements.txt)
+
+C:\Users\47901243v\AppData\Local\Programs\Python\Python312\python.exe -m pur

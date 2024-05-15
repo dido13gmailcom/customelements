@@ -1,0 +1,62 @@
+version: "3.8"
+
+services:
+
+  custom_elements_pre:
+    container_name: custom_elements_pre
+    image: nginx:latest
+    ports:
+      - "5545:80"
+    volumes:
+      - ./nginx/nginx_pre.conf:/etc/nginx/nginx.conf:ro
+      - ./logs/pre_logs.log:/var/log/nginx/pre_logs.log 
+    depends_on:
+      - custom_elements_server_pre
+    networks:
+      - pre_network
+
+  custom_elements_pro:
+    container_name: custom_elements_pro
+    image: nginx:latest
+    ports:
+      - "5544:80"
+    volumes:
+      - ./nginx/nginx_pro.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - custom_elements_server_pro
+    networks:
+      - pro_network
+
+  custom_elements_server_pro:
+    build:
+      context: .
+    command: uvicorn app:app --proxy-headers --host 0.0.0.0 --port 80 --workers 2
+    deploy:
+      replicas: 4
+    volumes:
+      - ./app:/app
+    networks:
+      - pro_network
+    restart: "always"
+
+  custom_elements_server_pre:
+    build:
+      context: .
+    command: uvicorn app:app --proxy-headers --host 0.0.0.0 --port 80 --workers 2
+    deploy:
+      replicas: 2
+    volumes:
+      - ./app:/app
+    networks:
+      - pre_network
+    restart: "always"
+
+networks:
+  pre_network:
+    driver: bridge
+  pro_network:
+    driver: bridge
+
+
+# També es poden afegir els logs de FASTAPI adjuntant la següent 
+# comanda al paràmetre command: ... --log-config /app/log_config_docker_pre.ini

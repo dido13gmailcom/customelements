@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        *{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;overflow: hidden;}
+        .msg{
+            margin: auto auto;
+            display: flex;
+            flex-direction: column;
+            margin: 2rem 2rem;
+        }
+        div{
+            margin: 0.5rem
+        }
+    </style>
+</head>
+<body>
+    
+
+    <div class="msg" style="min-height: 300;min-width: 400;width: {{data['options']['width']}};height:{{data['options']['height']}};">
+        <div style="font-weight: 400;font-size: 1.2rem;">{{description}} (afegit/mínim requerit)</div>
+            <table style="margin:0.3rem 0.5rem;display: block;">
+                {% for item in required_items %}
+                    <tr style="min-height: 200px;">
+                        <td style="text-align: center;">{{item['check']|safe}}</td>
+                        <td style="padding: 0.4rem;">{{item['desc']}}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+
+        <div style="font-weight: 400;font-size: 14px;margin-top:1rem;color:#33353e">{{info}}</div>
+            
+    </div>
+    
+</body>
+</html>

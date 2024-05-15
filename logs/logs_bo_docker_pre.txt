@@ -1,0 +1,64 @@
+2024-02-21 09:17:56 - INFO - Started server process [1]
+2024-02-21 09:17:56 - INFO - Started server process [1]
+2024-02-21 09:17:56 - INFO - Started server process [1]
+2024-02-21 09:17:56 - INFO - Started server process [1]
+2024-02-21 09:17:56 - INFO - Started server process [1]
+2024-02-21 09:17:56 - INFO - Started server process [1]
+2024-02-21 09:17:56 - INFO - Started server process [1]
+2024-02-21 09:17:56 - INFO - Started server process [1]
+2024-02-21 09:17:56 - INFO - Waiting for application startup.
+2024-02-21 09:17:56 - INFO - Waiting for application startup.
+2024-02-21 09:17:56 - INFO - Waiting for application startup.
+2024-02-21 09:17:56 - INFO - Waiting for application startup.
+2024-02-21 09:17:56 - INFO - Waiting for application startup.
+2024-02-21 09:17:56 - INFO - Waiting for application startup.
+2024-02-21 09:17:56 - INFO - Waiting for application startup.
+2024-02-21 09:17:56 - INFO - Waiting for application startup.
+2024-02-21 09:17:56 - INFO - Application startup complete.
+2024-02-21 09:17:56 - INFO - Application startup complete.
+2024-02-21 09:17:56 - INFO - Application startup complete.
+2024-02-21 09:17:56 - INFO - Application startup complete.
+2024-02-21 09:17:56 - INFO - Application startup complete.
+2024-02-21 09:17:56 - INFO - Application startup complete.
+2024-02-21 09:17:56 - INFO - Application startup complete.
+2024-02-21 09:17:56 - INFO - Application startup complete.
+2024-02-21 09:17:56 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2024-02-21 09:17:56 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2024-02-21 09:17:56 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2024-02-21 09:17:56 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2024-02-21 09:17:56 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2024-02-21 09:17:56 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2024-02-21 09:17:56 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2024-02-21 09:17:56 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2024-02-21 09:19:23 - INFO - Shutting down
+2024-02-21 09:19:23 - INFO - Shutting down
+2024-02-21 09:19:23 - INFO - Shutting down
+2024-02-21 09:19:23 - INFO - Shutting down
+2024-02-21 09:19:23 - INFO - Shutting down
+2024-02-21 09:19:23 - INFO - Shutting down
+2024-02-21 09:19:23 - INFO - Shutting down
+2024-02-21 09:19:23 - INFO - Shutting down
+2024-02-21 09:19:23 - INFO - Waiting for application shutdown.
+2024-02-21 09:19:23 - INFO - Waiting for application shutdown.
+2024-02-21 09:19:23 - INFO - Waiting for application shutdown.
+2024-02-21 09:19:23 - INFO - Waiting for application shutdown.
+2024-02-21 09:19:23 - INFO - Waiting for application shutdown.
+2024-02-21 09:19:23 - INFO - Waiting for application shutdown.
+2024-02-21 09:19:23 - INFO - Waiting for application shutdown.
+2024-02-21 09:19:23 - INFO - Waiting for application shutdown.
+2024-02-21 09:19:23 - INFO - Application shutdown complete.
+2024-02-21 09:19:23 - INFO - Application shutdown complete.
+2024-02-21 09:19:23 - INFO - Application shutdown complete.
+2024-02-21 09:19:23 - INFO - Application shutdown complete.
+2024-02-21 09:19:23 - INFO - Application shutdown complete.
+2024-02-21 09:19:23 - INFO - Application shutdown complete.
+2024-02-21 09:19:23 - INFO - Application shutdown complete.
+2024-02-21 09:19:23 - INFO - Application shutdown complete.
+2024-02-21 09:19:23 - INFO - Finished server process [1]
+2024-02-21 09:19:23 - INFO - Finished server process [1]
+2024-02-21 09:19:23 - INFO - Finished server process [1]
+2024-02-21 09:19:23 - INFO - Finished server process [1]
+2024-02-21 09:19:23 - INFO - Finished server process [1]
+2024-02-21 09:19:23 - INFO - Finished server process [1]
+2024-02-21 09:19:23 - INFO - Finished server process [1]
+2024-02-21 09:19:23 - INFO - Finished server process [1]

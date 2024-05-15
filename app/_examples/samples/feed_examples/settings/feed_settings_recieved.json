@@ -1,0 +1,93 @@
+[
+    {
+       "property": "legend-category-force",
+       "region": "legend"
+    },
+    {
+       "property": "legend-color-force",
+       "region": "legend"
+    },
+    {
+       "property": "x-show",
+       "region": "x_axis",
+       "value": "true"
+    },
+    {
+       "property": "y-title",
+       "region": "y_axis"
+    },
+    {
+       "property": "x-font-weight",
+       "region": "x_axis",
+       "value": "normal"
+    },
+    {
+       "property": "x-lim-inf",
+       "region": "x_axis",
+       "value": "54.5"
+    },
+    {
+       "property": "x-title",
+       "region": "x_axis"
+    },
+    {
+       "property": "y-lim-sup",
+       "region": "y_axis"
+    },
+    {
+       "property": "y-show",
+       "region": "y_axis",
+       "value": "true"
+    },
+    {
+       "property": "legend-title",
+       "region": "legend"
+    },
+    {
+       "property": "y-font-weight",
+       "region": "y_axis",
+       "value": "lighter"
+    },
+    {
+       "property": "legend-title-font-weight",
+       "region": "legend",
+       "value": "bold"
+    },
+    {
+       "property": "y-title-font-weight",
+       "region": "y_axis",
+       "value": "bold"
+    },
+    {
+       "property": "y-lim-inf",
+       "region": "y_axis"
+    },
+    {
+       "property": "x-title-font-weight",
+       "region": "x_axis",
+       "value": "bold"
+    },
+    {
+       "property": "x-category-force",
+       "region": "x_axis",
+       "value": "Regi\u00f3 Sanit\u00e0ria Pirineu | Alt Pened\u00e8s"
+    },
+    {
+       "property": "x-lim-sup",
+       "region": "x_axis"
+    },
+    {
+       "property": "id",
+       "region": "id"
+    },
+    {
+       "property": "legend-show",
+       "region": "legend",
+       "value": "true"
+    },
+    {
+       "property": "legend-position",
+       "region": "legend",
+       "value": "bottom"
+    }
+ ]

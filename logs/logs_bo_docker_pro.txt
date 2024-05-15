@@ -1,0 +1,1952 @@
+2023-11-28 18:04:26 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:04:26 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:04:26 - INFO - Started parent process [1]
+2023-11-28 18:04:26 - INFO - Started parent process [1]
+2023-11-28 18:08:41 - INFO - Stopping parent process [1]
+2023-11-28 18:08:41 - INFO - Stopping parent process [1]
+2023-11-28 18:08:45 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:08:45 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:08:45 - INFO - Started parent process [1]
+2023-11-28 18:08:45 - INFO - Started parent process [1]
+2023-11-28 18:08:47 - INFO - Started server process [9]
+2023-11-28 18:08:47 - INFO - Started server process [9]
+2023-11-28 18:08:47 - INFO - Started server process [8]
+2023-11-28 18:08:47 - INFO - Waiting for application startup.
+2023-11-28 18:08:47 - INFO - Started server process [8]
+2023-11-28 18:08:47 - INFO - Waiting for application startup.
+2023-11-28 18:08:47 - INFO - Waiting for application startup.
+2023-11-28 18:08:47 - INFO - Waiting for application startup.
+2023-11-28 18:08:47 - INFO - Application startup complete.
+2023-11-28 18:08:47 - INFO - Application startup complete.
+2023-11-28 18:08:47 - INFO - Application startup complete.
+2023-11-28 18:08:47 - INFO - Application startup complete.
+2023-11-28 18:08:47 - INFO - Started server process [11]
+2023-11-28 18:08:47 - INFO - Started server process [11]
+2023-11-28 18:08:47 - INFO - Waiting for application startup.
+2023-11-28 18:08:47 - INFO - Waiting for application startup.
+2023-11-28 18:08:47 - INFO - Application startup complete.
+2023-11-28 18:08:47 - INFO - Application startup complete.
+2023-11-28 18:08:47 - INFO - Started server process [10]
+2023-11-28 18:08:47 - INFO - Started server process [10]
+2023-11-28 18:08:47 - INFO - Waiting for application startup.
+2023-11-28 18:08:47 - INFO - Waiting for application startup.
+2023-11-28 18:08:47 - INFO - Application startup complete.
+2023-11-28 18:08:47 - INFO - Application startup complete.
+2023-11-28 18:09:01 - INFO - 172.18.0.1:50482 - "GET /api/visualizations/lines/feeds HTTP/1.1" 200
+2023-11-28 18:09:01 - INFO - 172.18.0.1:50482 - "GET /api/visualizations/lines/feeds HTTP/1.1" 200
+2023-11-28 18:09:11 - INFO - 172.18.0.1:50490 - "POST /api/visualizations/lines/render HTTP/1.1" 422
+2023-11-28 18:09:11 - INFO - 172.18.0.1:50490 - "POST /api/visualizations/lines/render HTTP/1.1" 422
+2023-11-28 18:10:08 - INFO - Shutting down
+2023-11-28 18:10:08 - INFO - Shutting down
+2023-11-28 18:10:08 - INFO - Waiting for application shutdown.
+2023-11-28 18:10:08 - INFO - Waiting for application shutdown.
+2023-11-28 18:10:08 - INFO - Application shutdown complete.
+2023-11-28 18:10:08 - INFO - Application shutdown complete.
+2023-11-28 18:10:08 - INFO - Finished server process [8]
+2023-11-28 18:10:08 - INFO - Finished server process [8]
+2023-11-28 18:10:08 - INFO - Shutting down
+2023-11-28 18:10:08 - INFO - Shutting down
+2023-11-28 18:10:08 - INFO - Waiting for application shutdown.
+2023-11-28 18:10:08 - INFO - Waiting for application shutdown.
+2023-11-28 18:10:08 - INFO - Application shutdown complete.
+2023-11-28 18:10:08 - INFO - Application shutdown complete.
+2023-11-28 18:10:08 - INFO - Finished server process [9]
+2023-11-28 18:10:08 - INFO - Finished server process [9]
+2023-11-28 18:10:08 - INFO - Shutting down
+2023-11-28 18:10:08 - INFO - Shutting down
+2023-11-28 18:10:08 - INFO - Waiting for application shutdown.
+2023-11-28 18:10:08 - INFO - Waiting for application shutdown.
+2023-11-28 18:10:08 - INFO - Application shutdown complete.
+2023-11-28 18:10:08 - INFO - Application shutdown complete.
+2023-11-28 18:10:08 - INFO - Finished server process [10]
+2023-11-28 18:10:08 - INFO - Finished server process [10]
+2023-11-28 18:10:08 - INFO - Shutting down
+2023-11-28 18:10:08 - INFO - Shutting down
+2023-11-28 18:10:09 - INFO - Waiting for application shutdown.
+2023-11-28 18:10:09 - INFO - Waiting for application shutdown.
+2023-11-28 18:10:09 - INFO - Application shutdown complete.
+2023-11-28 18:10:09 - INFO - Application shutdown complete.
+2023-11-28 18:10:09 - INFO - Finished server process [11]
+2023-11-28 18:10:09 - INFO - Finished server process [11]
+2023-11-28 18:10:09 - INFO - Stopping parent process [1]
+2023-11-28 18:10:09 - INFO - Stopping parent process [1]
+2023-11-28 18:10:12 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:10:12 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:10:12 - INFO - Started parent process [1]
+2023-11-28 18:10:12 - INFO - Started parent process [1]
+2023-11-28 18:10:14 - INFO - Started server process [8]
+2023-11-28 18:10:14 - INFO - Started server process [8]
+2023-11-28 18:10:14 - INFO - Waiting for application startup.
+2023-11-28 18:10:14 - INFO - Waiting for application startup.
+2023-11-28 18:10:14 - INFO - Application startup complete.
+2023-11-28 18:10:14 - INFO - Application startup complete.
+2023-11-28 18:10:14 - INFO - Started server process [10]
+2023-11-28 18:10:14 - INFO - Started server process [10]
+2023-11-28 18:10:14 - INFO - Waiting for application startup.
+2023-11-28 18:10:14 - INFO - Waiting for application startup.
+2023-11-28 18:10:14 - INFO - Application startup complete.
+2023-11-28 18:10:14 - INFO - Application startup complete.
+2023-11-28 18:10:14 - INFO - Started server process [9]
+2023-11-28 18:10:14 - INFO - Started server process [9]
+2023-11-28 18:10:14 - INFO - Waiting for application startup.
+2023-11-28 18:10:14 - INFO - Waiting for application startup.
+2023-11-28 18:10:14 - INFO - Application startup complete.
+2023-11-28 18:10:14 - INFO - Application startup complete.
+2023-11-28 18:10:14 - INFO - Started server process [11]
+2023-11-28 18:10:14 - INFO - Started server process [11]
+2023-11-28 18:10:14 - INFO - Waiting for application startup.
+2023-11-28 18:10:14 - INFO - Waiting for application startup.
+2023-11-28 18:10:14 - INFO - Application startup complete.
+2023-11-28 18:10:14 - INFO - Application startup complete.
+2023-11-28 18:10:27 - INFO - 172.18.0.1:50506 - "POST /api/visualizations/lines/render HTTP/1.1" 500
+2023-11-28 18:10:27 - INFO - 172.18.0.1:50506 - "POST /api/visualizations/lines/render HTTP/1.1" 500
+2023-11-28 18:10:27 - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 426, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1106, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/custom_elements_server/models/limit_body_size.py", line 31, in dispatch
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 69, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/responses.py", line 338, in __call__
+    raise RuntimeError(f"File at path {self.path} does not exist.")
+RuntimeError: File at path /tmp/tmpb5a8g0wy/output.png does not exist.
+2023-11-28 18:10:27 - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 426, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1106, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/custom_elements_server/models/limit_body_size.py", line 31, in dispatch
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 69, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/responses.py", line 338, in __call__
+    raise RuntimeError(f"File at path {self.path} does not exist.")
+RuntimeError: File at path /tmp/tmpb5a8g0wy/output.png does not exist.
+2023-11-28 18:11:37 - INFO - Shutting down
+2023-11-28 18:11:37 - INFO - Shutting down
+2023-11-28 18:11:37 - INFO - Waiting for application shutdown.
+2023-11-28 18:11:37 - INFO - Waiting for application shutdown.
+2023-11-28 18:11:37 - INFO - Application shutdown complete.
+2023-11-28 18:11:37 - INFO - Application shutdown complete.
+2023-11-28 18:11:37 - INFO - Finished server process [8]
+2023-11-28 18:11:37 - INFO - Finished server process [8]
+2023-11-28 18:11:37 - INFO - Shutting down
+2023-11-28 18:11:37 - INFO - Shutting down
+2023-11-28 18:11:37 - INFO - Waiting for application shutdown.
+2023-11-28 18:11:37 - INFO - Waiting for application shutdown.
+2023-11-28 18:11:37 - INFO - Application shutdown complete.
+2023-11-28 18:11:37 - INFO - Application shutdown complete.
+2023-11-28 18:11:37 - INFO - Finished server process [9]
+2023-11-28 18:11:37 - INFO - Finished server process [9]
+2023-11-28 18:11:38 - INFO - Shutting down
+2023-11-28 18:11:38 - INFO - Shutting down
+2023-11-28 18:11:38 - INFO - Waiting for application shutdown.
+2023-11-28 18:11:38 - INFO - Waiting for application shutdown.
+2023-11-28 18:11:38 - INFO - Application shutdown complete.
+2023-11-28 18:11:38 - INFO - Application shutdown complete.
+2023-11-28 18:11:38 - INFO - Finished server process [10]
+2023-11-28 18:11:38 - INFO - Finished server process [10]
+2023-11-28 18:11:38 - INFO - Shutting down
+2023-11-28 18:11:38 - INFO - Shutting down
+2023-11-28 18:11:38 - INFO - Waiting for application shutdown.
+2023-11-28 18:11:38 - INFO - Waiting for application shutdown.
+2023-11-28 18:11:38 - INFO - Application shutdown complete.
+2023-11-28 18:11:38 - INFO - Application shutdown complete.
+2023-11-28 18:11:38 - INFO - Finished server process [11]
+2023-11-28 18:11:38 - INFO - Finished server process [11]
+2023-11-28 18:11:38 - INFO - Stopping parent process [1]
+2023-11-28 18:11:38 - INFO - Stopping parent process [1]
+2023-11-28 18:11:41 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:11:41 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:11:41 - INFO - Started parent process [1]
+2023-11-28 18:11:41 - INFO - Started parent process [1]
+2023-11-28 18:11:43 - INFO - Started server process [11]
+2023-11-28 18:11:43 - INFO - Started server process [11]
+2023-11-28 18:11:43 - INFO - Waiting for application startup.
+2023-11-28 18:11:43 - INFO - Waiting for application startup.
+2023-11-28 18:11:43 - INFO - Application startup complete.
+2023-11-28 18:11:43 - INFO - Application startup complete.
+2023-11-28 18:11:43 - INFO - Started server process [8]
+2023-11-28 18:11:43 - INFO - Started server process [8]
+2023-11-28 18:11:43 - INFO - Waiting for application startup.
+2023-11-28 18:11:43 - INFO - Waiting for application startup.
+2023-11-28 18:11:43 - INFO - Application startup complete.
+2023-11-28 18:11:43 - INFO - Application startup complete.
+2023-11-28 18:11:43 - INFO - Started server process [9]
+2023-11-28 18:11:43 - INFO - Started server process [9]
+2023-11-28 18:11:43 - INFO - Waiting for application startup.
+2023-11-28 18:11:43 - INFO - Waiting for application startup.
+2023-11-28 18:11:43 - INFO - Application startup complete.
+2023-11-28 18:11:43 - INFO - Application startup complete.
+2023-11-28 18:11:43 - INFO - Started server process [10]
+2023-11-28 18:11:43 - INFO - Started server process [10]
+2023-11-28 18:11:43 - INFO - Waiting for application startup.
+2023-11-28 18:11:43 - INFO - Waiting for application startup.
+2023-11-28 18:11:43 - INFO - Application startup complete.
+2023-11-28 18:11:43 - INFO - Application startup complete.
+2023-11-28 18:17:41 - INFO - 172.18.0.1:50516 - "POST /api/visualizations/lines/render HTTP/1.1" 500
+2023-11-28 18:17:41 - INFO - 172.18.0.1:50516 - "POST /api/visualizations/lines/render HTTP/1.1" 500
+2023-11-28 18:17:41 - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 426, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1106, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/custom_elements_server/models/limit_body_size.py", line 31, in dispatch
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 69, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/responses.py", line 338, in __call__
+    raise RuntimeError(f"File at path {self.path} does not exist.")
+RuntimeError: File at path /tmp/tmpjt__58wr/output.png does not exist.
+2023-11-28 18:17:41 - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 426, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1106, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/custom_elements_server/models/limit_body_size.py", line 31, in dispatch
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 69, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/responses.py", line 338, in __call__
+    raise RuntimeError(f"File at path {self.path} does not exist.")
+RuntimeError: File at path /tmp/tmpjt__58wr/output.png does not exist.
+2023-11-28 18:22:18 - INFO - Shutting down
+2023-11-28 18:22:18 - INFO - Shutting down
+2023-11-28 18:22:18 - INFO - Waiting for application shutdown.
+2023-11-28 18:22:18 - INFO - Waiting for application shutdown.
+2023-11-28 18:22:18 - INFO - Application shutdown complete.
+2023-11-28 18:22:18 - INFO - Application shutdown complete.
+2023-11-28 18:22:18 - INFO - Finished server process [8]
+2023-11-28 18:22:18 - INFO - Finished server process [8]
+2023-11-28 18:22:19 - INFO - Shutting down
+2023-11-28 18:22:19 - INFO - Shutting down
+2023-11-28 18:22:19 - INFO - Waiting for application shutdown.
+2023-11-28 18:22:19 - INFO - Waiting for application shutdown.
+2023-11-28 18:22:19 - INFO - Application shutdown complete.
+2023-11-28 18:22:19 - INFO - Application shutdown complete.
+2023-11-28 18:22:19 - INFO - Finished server process [9]
+2023-11-28 18:22:19 - INFO - Finished server process [9]
+2023-11-28 18:22:19 - INFO - Shutting down
+2023-11-28 18:22:19 - INFO - Shutting down
+2023-11-28 18:22:19 - INFO - Waiting for application shutdown.
+2023-11-28 18:22:19 - INFO - Waiting for application shutdown.
+2023-11-28 18:22:19 - INFO - Application shutdown complete.
+2023-11-28 18:22:19 - INFO - Application shutdown complete.
+2023-11-28 18:22:19 - INFO - Finished server process [10]
+2023-11-28 18:22:19 - INFO - Finished server process [10]
+2023-11-28 18:22:19 - INFO - Shutting down
+2023-11-28 18:22:19 - INFO - Shutting down
+2023-11-28 18:22:19 - INFO - Waiting for application shutdown.
+2023-11-28 18:22:19 - INFO - Waiting for application shutdown.
+2023-11-28 18:22:19 - INFO - Application shutdown complete.
+2023-11-28 18:22:19 - INFO - Application shutdown complete.
+2023-11-28 18:22:19 - INFO - Finished server process [11]
+2023-11-28 18:22:19 - INFO - Finished server process [11]
+2023-11-28 18:22:19 - INFO - Stopping parent process [1]
+2023-11-28 18:22:19 - INFO - Stopping parent process [1]
+2023-11-28 18:22:22 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:22:22 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:22:22 - INFO - Started parent process [1]
+2023-11-28 18:22:22 - INFO - Started parent process [1]
+2023-11-28 18:22:24 - INFO - Started server process [10]
+2023-11-28 18:22:24 - INFO - Started server process [10]
+2023-11-28 18:22:24 - INFO - Waiting for application startup.
+2023-11-28 18:22:24 - INFO - Waiting for application startup.
+2023-11-28 18:22:24 - INFO - Application startup complete.
+2023-11-28 18:22:24 - INFO - Application startup complete.
+2023-11-28 18:22:24 - INFO - Started server process [9]
+2023-11-28 18:22:24 - INFO - Started server process [9]
+2023-11-28 18:22:24 - INFO - Waiting for application startup.
+2023-11-28 18:22:24 - INFO - Waiting for application startup.
+2023-11-28 18:22:24 - INFO - Application startup complete.
+2023-11-28 18:22:24 - INFO - Application startup complete.
+2023-11-28 18:22:24 - INFO - Started server process [11]
+2023-11-28 18:22:24 - INFO - Started server process [11]
+2023-11-28 18:22:24 - INFO - Waiting for application startup.
+2023-11-28 18:22:24 - INFO - Waiting for application startup.
+2023-11-28 18:22:24 - INFO - Application startup complete.
+2023-11-28 18:22:24 - INFO - Application startup complete.
+2023-11-28 18:22:24 - INFO - Started server process [8]
+2023-11-28 18:22:24 - INFO - Started server process [8]
+2023-11-28 18:22:24 - INFO - Waiting for application startup.
+2023-11-28 18:22:24 - INFO - Waiting for application startup.
+2023-11-28 18:22:24 - INFO - Application startup complete.
+2023-11-28 18:22:24 - INFO - Application startup complete.
+2023-11-28 18:22:31 - INFO - 172.18.0.1:50990 - "POST /api/visualizations/lines/render HTTP/1.1" 500
+2023-11-28 18:22:31 - INFO - 172.18.0.1:50990 - "POST /api/visualizations/lines/render HTTP/1.1" 500
+2023-11-28 18:22:31 - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 426, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1106, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/custom_elements_server/models/limit_body_size.py", line 31, in dispatch
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 69, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/responses.py", line 338, in __call__
+    raise RuntimeError(f"File at path {self.path} does not exist.")
+RuntimeError: File at path /tmp/tmpe7oa41kp/output.png does not exist.
+2023-11-28 18:22:31 - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 426, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1106, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/custom_elements_server/models/limit_body_size.py", line 31, in dispatch
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 69, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/responses.py", line 338, in __call__
+    raise RuntimeError(f"File at path {self.path} does not exist.")
+RuntimeError: File at path /tmp/tmpe7oa41kp/output.png does not exist.
+2023-11-28 18:26:06 - INFO - Shutting down
+2023-11-28 18:26:06 - INFO - Shutting down
+2023-11-28 18:26:06 - INFO - Waiting for application shutdown.
+2023-11-28 18:26:06 - INFO - Waiting for application shutdown.
+2023-11-28 18:26:06 - INFO - Application shutdown complete.
+2023-11-28 18:26:06 - INFO - Application shutdown complete.
+2023-11-28 18:26:06 - INFO - Finished server process [8]
+2023-11-28 18:26:06 - INFO - Finished server process [8]
+2023-11-28 18:26:06 - INFO - Shutting down
+2023-11-28 18:26:06 - INFO - Shutting down
+2023-11-28 18:26:06 - INFO - Waiting for application shutdown.
+2023-11-28 18:26:06 - INFO - Waiting for application shutdown.
+2023-11-28 18:26:06 - INFO - Application shutdown complete.
+2023-11-28 18:26:06 - INFO - Application shutdown complete.
+2023-11-28 18:26:06 - INFO - Finished server process [9]
+2023-11-28 18:26:06 - INFO - Finished server process [9]
+2023-11-28 18:26:07 - INFO - Shutting down
+2023-11-28 18:26:07 - INFO - Shutting down
+2023-11-28 18:26:07 - INFO - Waiting for application shutdown.
+2023-11-28 18:26:07 - INFO - Waiting for application shutdown.
+2023-11-28 18:26:07 - INFO - Application shutdown complete.
+2023-11-28 18:26:07 - INFO - Application shutdown complete.
+2023-11-28 18:26:07 - INFO - Finished server process [10]
+2023-11-28 18:26:07 - INFO - Finished server process [10]
+2023-11-28 18:26:07 - INFO - Shutting down
+2023-11-28 18:26:07 - INFO - Shutting down
+2023-11-28 18:26:07 - INFO - Waiting for application shutdown.
+2023-11-28 18:26:07 - INFO - Waiting for application shutdown.
+2023-11-28 18:26:07 - INFO - Application shutdown complete.
+2023-11-28 18:26:07 - INFO - Application shutdown complete.
+2023-11-28 18:26:07 - INFO - Finished server process [11]
+2023-11-28 18:26:07 - INFO - Finished server process [11]
+2023-11-28 18:26:07 - INFO - Stopping parent process [1]
+2023-11-28 18:26:07 - INFO - Stopping parent process [1]
+2023-11-28 18:26:10 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:26:10 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:26:10 - INFO - Started parent process [1]
+2023-11-28 18:26:10 - INFO - Started parent process [1]
+2023-11-28 18:26:12 - INFO - Started server process [10]
+2023-11-28 18:26:12 - INFO - Started server process [10]
+2023-11-28 18:26:12 - INFO - Waiting for application startup.
+2023-11-28 18:26:12 - INFO - Waiting for application startup.
+2023-11-28 18:26:12 - INFO - Application startup complete.
+2023-11-28 18:26:12 - INFO - Application startup complete.
+2023-11-28 18:26:12 - INFO - Started server process [9]
+2023-11-28 18:26:12 - INFO - Started server process [9]
+2023-11-28 18:26:12 - INFO - Waiting for application startup.
+2023-11-28 18:26:12 - INFO - Waiting for application startup.
+2023-11-28 18:26:12 - INFO - Application startup complete.
+2023-11-28 18:26:12 - INFO - Application startup complete.
+2023-11-28 18:26:12 - INFO - Started server process [8]
+2023-11-28 18:26:12 - INFO - Started server process [8]
+2023-11-28 18:26:12 - INFO - Waiting for application startup.
+2023-11-28 18:26:12 - INFO - Waiting for application startup.
+2023-11-28 18:26:12 - INFO - Application startup complete.
+2023-11-28 18:26:12 - INFO - Application startup complete.
+2023-11-28 18:26:12 - INFO - Started server process [11]
+2023-11-28 18:26:12 - INFO - Started server process [11]
+2023-11-28 18:26:12 - INFO - Waiting for application startup.
+2023-11-28 18:26:12 - INFO - Waiting for application startup.
+2023-11-28 18:26:12 - INFO - Application startup complete.
+2023-11-28 18:26:12 - INFO - Application startup complete.
+2023-11-28 18:26:17 - INFO - 172.18.0.1:51000 - "POST /api/visualizations/lines/render HTTP/1.1" 500
+2023-11-28 18:26:17 - INFO - 172.18.0.1:51000 - "POST /api/visualizations/lines/render HTTP/1.1" 500
+2023-11-28 18:26:17 - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 426, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1106, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/custom_elements_server/models/limit_body_size.py", line 31, in dispatch
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 69, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/responses.py", line 338, in __call__
+    raise RuntimeError(f"File at path {self.path} does not exist.")
+RuntimeError: File at path /tmp/tmp52tfdtav/output.png does not exist.
+2023-11-28 18:26:17 - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 426, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1106, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/custom_elements_server/models/limit_body_size.py", line 31, in dispatch
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 69, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/responses.py", line 338, in __call__
+    raise RuntimeError(f"File at path {self.path} does not exist.")
+RuntimeError: File at path /tmp/tmp52tfdtav/output.png does not exist.
+2023-11-28 18:29:10 - INFO - Shutting down
+2023-11-28 18:29:10 - INFO - Shutting down
+2023-11-28 18:29:11 - INFO - Waiting for application shutdown.
+2023-11-28 18:29:11 - INFO - Waiting for application shutdown.
+2023-11-28 18:29:11 - INFO - Application shutdown complete.
+2023-11-28 18:29:11 - INFO - Application shutdown complete.
+2023-11-28 18:29:11 - INFO - Finished server process [8]
+2023-11-28 18:29:11 - INFO - Finished server process [8]
+2023-11-28 18:29:11 - INFO - Shutting down
+2023-11-28 18:29:11 - INFO - Shutting down
+2023-11-28 18:29:11 - INFO - Waiting for application shutdown.
+2023-11-28 18:29:11 - INFO - Waiting for application shutdown.
+2023-11-28 18:29:11 - INFO - Application shutdown complete.
+2023-11-28 18:29:11 - INFO - Application shutdown complete.
+2023-11-28 18:29:11 - INFO - Finished server process [9]
+2023-11-28 18:29:11 - INFO - Finished server process [9]
+2023-11-28 18:29:11 - INFO - Shutting down
+2023-11-28 18:29:11 - INFO - Shutting down
+2023-11-28 18:29:11 - INFO - Waiting for application shutdown.
+2023-11-28 18:29:11 - INFO - Waiting for application shutdown.
+2023-11-28 18:29:11 - INFO - Application shutdown complete.
+2023-11-28 18:29:11 - INFO - Application shutdown complete.
+2023-11-28 18:29:11 - INFO - Finished server process [10]
+2023-11-28 18:29:11 - INFO - Finished server process [10]
+2023-11-28 18:29:12 - INFO - Shutting down
+2023-11-28 18:29:12 - INFO - Shutting down
+2023-11-28 18:29:12 - INFO - Waiting for application shutdown.
+2023-11-28 18:29:12 - INFO - Waiting for application shutdown.
+2023-11-28 18:29:12 - INFO - Application shutdown complete.
+2023-11-28 18:29:12 - INFO - Application shutdown complete.
+2023-11-28 18:29:12 - INFO - Finished server process [11]
+2023-11-28 18:29:12 - INFO - Finished server process [11]
+2023-11-28 18:29:12 - INFO - Stopping parent process [1]
+2023-11-28 18:29:12 - INFO - Stopping parent process [1]
+2023-11-28 18:29:15 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:29:15 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:29:15 - INFO - Started parent process [1]
+2023-11-28 18:29:15 - INFO - Started parent process [1]
+2023-11-28 18:29:17 - INFO - Started server process [10]
+2023-11-28 18:29:17 - INFO - Started server process [11]
+2023-11-28 18:29:17 - INFO - Started server process [11]
+2023-11-28 18:29:17 - INFO - Started server process [10]
+2023-11-28 18:29:17 - INFO - Started server process [8]
+2023-11-28 18:29:17 - INFO - Waiting for application startup.
+2023-11-28 18:29:17 - INFO - Waiting for application startup.
+2023-11-28 18:29:17 - INFO - Started server process [8]
+2023-11-28 18:29:17 - INFO - Waiting for application startup.
+2023-11-28 18:29:17 - INFO - Waiting for application startup.
+2023-11-28 18:29:17 - INFO - Waiting for application startup.
+2023-11-28 18:29:17 - INFO - Application startup complete.
+2023-11-28 18:29:17 - INFO - Application startup complete.
+2023-11-28 18:29:17 - INFO - Waiting for application startup.
+2023-11-28 18:29:17 - INFO - Application startup complete.
+2023-11-28 18:29:17 - INFO - Application startup complete.
+2023-11-28 18:29:17 - INFO - Application startup complete.
+2023-11-28 18:29:17 - INFO - Application startup complete.
+2023-11-28 18:29:17 - INFO - Started server process [9]
+2023-11-28 18:29:17 - INFO - Started server process [9]
+2023-11-28 18:29:17 - INFO - Waiting for application startup.
+2023-11-28 18:29:17 - INFO - Waiting for application startup.
+2023-11-28 18:29:17 - INFO - Application startup complete.
+2023-11-28 18:29:17 - INFO - Application startup complete.
+2023-11-28 18:29:19 - INFO - 172.18.0.1:51016 - "POST /api/visualizations/lines/render HTTP/1.1" 500
+2023-11-28 18:29:19 - INFO - 172.18.0.1:51016 - "POST /api/visualizations/lines/render HTTP/1.1" 500
+2023-11-28 18:29:19 - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 426, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1106, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/custom_elements_server/models/limit_body_size.py", line 31, in dispatch
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 69, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/responses.py", line 338, in __call__
+    raise RuntimeError(f"File at path {self.path} does not exist.")
+RuntimeError: File at path /tmp/tmp9ez9mdyl/output.png does not exist.
+2023-11-28 18:29:19 - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 426, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1106, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/custom_elements_server/models/limit_body_size.py", line 31, in dispatch
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 69, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/responses.py", line 338, in __call__
+    raise RuntimeError(f"File at path {self.path} does not exist.")
+RuntimeError: File at path /tmp/tmp9ez9mdyl/output.png does not exist.
+2023-11-28 18:40:50 - INFO - Shutting down
+2023-11-28 18:40:50 - INFO - Shutting down
+2023-11-28 18:40:50 - INFO - Waiting for application shutdown.
+2023-11-28 18:40:50 - INFO - Waiting for application shutdown.
+2023-11-28 18:40:50 - INFO - Application shutdown complete.
+2023-11-28 18:40:50 - INFO - Application shutdown complete.
+2023-11-28 18:40:50 - INFO - Finished server process [8]
+2023-11-28 18:40:50 - INFO - Finished server process [8]
+2023-11-28 18:40:50 - INFO - Shutting down
+2023-11-28 18:40:50 - INFO - Shutting down
+2023-11-28 18:40:50 - INFO - Waiting for application shutdown.
+2023-11-28 18:40:50 - INFO - Waiting for application shutdown.
+2023-11-28 18:40:50 - INFO - Application shutdown complete.
+2023-11-28 18:40:50 - INFO - Application shutdown complete.
+2023-11-28 18:40:50 - INFO - Finished server process [9]
+2023-11-28 18:40:50 - INFO - Finished server process [9]
+2023-11-28 18:40:51 - INFO - Shutting down
+2023-11-28 18:40:51 - INFO - Shutting down
+2023-11-28 18:40:51 - INFO - Waiting for application shutdown.
+2023-11-28 18:40:51 - INFO - Waiting for application shutdown.
+2023-11-28 18:40:51 - INFO - Application shutdown complete.
+2023-11-28 18:40:51 - INFO - Application shutdown complete.
+2023-11-28 18:40:51 - INFO - Finished server process [10]
+2023-11-28 18:40:51 - INFO - Finished server process [10]
+2023-11-28 18:40:51 - INFO - Shutting down
+2023-11-28 18:40:51 - INFO - Shutting down
+2023-11-28 18:40:51 - INFO - Waiting for application shutdown.
+2023-11-28 18:40:51 - INFO - Waiting for application shutdown.
+2023-11-28 18:40:51 - INFO - Application shutdown complete.
+2023-11-28 18:40:51 - INFO - Application shutdown complete.
+2023-11-28 18:40:51 - INFO - Finished server process [11]
+2023-11-28 18:40:51 - INFO - Finished server process [11]
+2023-11-28 18:40:51 - INFO - Stopping parent process [1]
+2023-11-28 18:40:51 - INFO - Stopping parent process [1]
+2023-11-28 18:40:54 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:40:54 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:40:54 - INFO - Started parent process [1]
+2023-11-28 18:40:54 - INFO - Started parent process [1]
+2023-11-28 18:40:56 - INFO - Started server process [11]
+2023-11-28 18:40:56 - INFO - Started server process [11]
+2023-11-28 18:40:56 - INFO - Waiting for application startup.
+2023-11-28 18:40:56 - INFO - Waiting for application startup.
+2023-11-28 18:40:56 - INFO - Application startup complete.
+2023-11-28 18:40:56 - INFO - Application startup complete.
+2023-11-28 18:40:56 - INFO - Started server process [8]
+2023-11-28 18:40:56 - INFO - Started server process [8]
+2023-11-28 18:40:56 - INFO - Waiting for application startup.
+2023-11-28 18:40:56 - INFO - Waiting for application startup.
+2023-11-28 18:40:56 - INFO - Application startup complete.
+2023-11-28 18:40:56 - INFO - Application startup complete.
+2023-11-28 18:40:56 - INFO - Started server process [9]
+2023-11-28 18:40:56 - INFO - Started server process [9]
+2023-11-28 18:40:56 - INFO - Waiting for application startup.
+2023-11-28 18:40:56 - INFO - Waiting for application startup.
+2023-11-28 18:40:56 - INFO - Application startup complete.
+2023-11-28 18:40:56 - INFO - Application startup complete.
+2023-11-28 18:40:56 - INFO - Started server process [10]
+2023-11-28 18:40:56 - INFO - Started server process [10]
+2023-11-28 18:40:56 - INFO - Waiting for application startup.
+2023-11-28 18:40:56 - INFO - Waiting for application startup.
+2023-11-28 18:40:56 - INFO - Application startup complete.
+2023-11-28 18:40:56 - INFO - Application startup complete.
+2023-11-28 18:41:07 - INFO - 172.18.0.1:51034 - "POST /api/visualizations/lines/render HTTP/1.1" 500
+2023-11-28 18:41:07 - INFO - 172.18.0.1:51034 - "POST /api/visualizations/lines/render HTTP/1.1" 500
+2023-11-28 18:41:07 - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 426, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1106, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/custom_elements_server/models/limit_body_size.py", line 31, in dispatch
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 69, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/responses.py", line 338, in __call__
+    raise RuntimeError(f"File at path {self.path} does not exist.")
+RuntimeError: File at path /tmp/tmpvr70g0oo/output.png does not exist.
+2023-11-28 18:41:07 - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 426, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1106, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/custom_elements_server/models/limit_body_size.py", line 31, in dispatch
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 69, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/responses.py", line 338, in __call__
+    raise RuntimeError(f"File at path {self.path} does not exist.")
+RuntimeError: File at path /tmp/tmpvr70g0oo/output.png does not exist.
+2023-11-28 18:42:23 - INFO - Shutting down
+2023-11-28 18:42:23 - INFO - Shutting down
+2023-11-28 18:42:23 - INFO - Waiting for application shutdown.
+2023-11-28 18:42:23 - INFO - Waiting for application shutdown.
+2023-11-28 18:42:23 - INFO - Application shutdown complete.
+2023-11-28 18:42:23 - INFO - Application shutdown complete.
+2023-11-28 18:42:23 - INFO - Finished server process [8]
+2023-11-28 18:42:23 - INFO - Finished server process [8]
+2023-11-28 18:42:23 - INFO - Shutting down
+2023-11-28 18:42:23 - INFO - Shutting down
+2023-11-28 18:42:23 - INFO - Waiting for application shutdown.
+2023-11-28 18:42:23 - INFO - Waiting for application shutdown.
+2023-11-28 18:42:23 - INFO - Application shutdown complete.
+2023-11-28 18:42:23 - INFO - Application shutdown complete.
+2023-11-28 18:42:23 - INFO - Finished server process [9]
+2023-11-28 18:42:23 - INFO - Finished server process [9]
+2023-11-28 18:42:23 - INFO - Shutting down
+2023-11-28 18:42:23 - INFO - Shutting down
+2023-11-28 18:42:23 - INFO - Waiting for application shutdown.
+2023-11-28 18:42:23 - INFO - Waiting for application shutdown.
+2023-11-28 18:42:23 - INFO - Application shutdown complete.
+2023-11-28 18:42:23 - INFO - Application shutdown complete.
+2023-11-28 18:42:23 - INFO - Finished server process [10]
+2023-11-28 18:42:23 - INFO - Finished server process [10]
+2023-11-28 18:42:24 - INFO - Shutting down
+2023-11-28 18:42:24 - INFO - Shutting down
+2023-11-28 18:42:24 - INFO - Waiting for application shutdown.
+2023-11-28 18:42:24 - INFO - Waiting for application shutdown.
+2023-11-28 18:42:24 - INFO - Application shutdown complete.
+2023-11-28 18:42:24 - INFO - Application shutdown complete.
+2023-11-28 18:42:24 - INFO - Finished server process [11]
+2023-11-28 18:42:24 - INFO - Finished server process [11]
+2023-11-28 18:42:24 - INFO - Stopping parent process [1]
+2023-11-28 18:42:24 - INFO - Stopping parent process [1]
+2023-11-28 18:42:27 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:42:27 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:42:27 - INFO - Started parent process [1]
+2023-11-28 18:42:27 - INFO - Started parent process [1]
+2023-11-28 18:42:29 - INFO - Started server process [8]
+2023-11-28 18:42:29 - INFO - Started server process [8]
+2023-11-28 18:42:29 - INFO - Waiting for application startup.
+2023-11-28 18:42:29 - INFO - Waiting for application startup.
+2023-11-28 18:42:29 - INFO - Application startup complete.
+2023-11-28 18:42:29 - INFO - Application startup complete.
+2023-11-28 18:42:29 - INFO - Started server process [9]
+2023-11-28 18:42:29 - INFO - Started server process [9]
+2023-11-28 18:42:29 - INFO - Waiting for application startup.
+2023-11-28 18:42:29 - INFO - Waiting for application startup.
+2023-11-28 18:42:29 - INFO - Application startup complete.
+2023-11-28 18:42:29 - INFO - Application startup complete.
+2023-11-28 18:42:29 - INFO - Started server process [11]
+2023-11-28 18:42:29 - INFO - Started server process [11]
+2023-11-28 18:42:29 - INFO - Waiting for application startup.
+2023-11-28 18:42:29 - INFO - Waiting for application startup.
+2023-11-28 18:42:29 - INFO - Application startup complete.
+2023-11-28 18:42:29 - INFO - Application startup complete.
+2023-11-28 18:42:29 - INFO - Started server process [10]
+2023-11-28 18:42:29 - INFO - Started server process [10]
+2023-11-28 18:42:29 - INFO - Waiting for application startup.
+2023-11-28 18:42:29 - INFO - Waiting for application startup.
+2023-11-28 18:42:29 - INFO - Application startup complete.
+2023-11-28 18:42:29 - INFO - Application startup complete.
+2023-11-28 18:42:40 - INFO - 172.18.0.1:51042 - "POST /api/visualizations/lines/render HTTP/1.1" 500
+2023-11-28 18:42:40 - INFO - 172.18.0.1:51042 - "POST /api/visualizations/lines/render HTTP/1.1" 500
+2023-11-28 18:42:40 - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 426, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1106, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/custom_elements_server/models/limit_body_size.py", line 31, in dispatch
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 69, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/responses.py", line 338, in __call__
+    raise RuntimeError(f"File at path {self.path} does not exist.")
+RuntimeError: File at path /tmp/tmp6hqmt4qm/output.png does not exist.
+2023-11-28 18:42:40 - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 426, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1106, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/custom_elements_server/models/limit_body_size.py", line 31, in dispatch
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/usr/local/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 69, in app
+    await response(scope, receive, send)
+  File "/usr/local/lib/python3.12/site-packages/starlette/responses.py", line 338, in __call__
+    raise RuntimeError(f"File at path {self.path} does not exist.")
+RuntimeError: File at path /tmp/tmp6hqmt4qm/output.png does not exist.
+2023-11-28 18:44:15 - INFO - Shutting down
+2023-11-28 18:44:15 - INFO - Shutting down
+2023-11-28 18:44:16 - INFO - Waiting for application shutdown.
+2023-11-28 18:44:16 - INFO - Waiting for application shutdown.
+2023-11-28 18:44:16 - INFO - Application shutdown complete.
+2023-11-28 18:44:16 - INFO - Application shutdown complete.
+2023-11-28 18:44:16 - INFO - Finished server process [8]
+2023-11-28 18:44:16 - INFO - Finished server process [8]
+2023-11-28 18:44:16 - INFO - Shutting down
+2023-11-28 18:44:16 - INFO - Shutting down
+2023-11-28 18:44:16 - INFO - Waiting for application shutdown.
+2023-11-28 18:44:16 - INFO - Waiting for application shutdown.
+2023-11-28 18:44:16 - INFO - Application shutdown complete.
+2023-11-28 18:44:16 - INFO - Application shutdown complete.
+2023-11-28 18:44:16 - INFO - Finished server process [9]
+2023-11-28 18:44:16 - INFO - Finished server process [9]
+2023-11-28 18:44:16 - INFO - Shutting down
+2023-11-28 18:44:16 - INFO - Shutting down
+2023-11-28 18:44:16 - INFO - Waiting for application shutdown.
+2023-11-28 18:44:16 - INFO - Waiting for application shutdown.
+2023-11-28 18:44:16 - INFO - Application shutdown complete.
+2023-11-28 18:44:16 - INFO - Application shutdown complete.
+2023-11-28 18:44:16 - INFO - Finished server process [10]
+2023-11-28 18:44:16 - INFO - Finished server process [10]
+2023-11-28 18:44:16 - INFO - Shutting down
+2023-11-28 18:44:16 - INFO - Shutting down
+2023-11-28 18:44:16 - INFO - Waiting for application shutdown.
+2023-11-28 18:44:16 - INFO - Waiting for application shutdown.
+2023-11-28 18:44:16 - INFO - Application shutdown complete.
+2023-11-28 18:44:16 - INFO - Application shutdown complete.
+2023-11-28 18:44:16 - INFO - Finished server process [11]
+2023-11-28 18:44:16 - INFO - Finished server process [11]
+2023-11-28 18:44:16 - INFO - Stopping parent process [1]
+2023-11-28 18:44:16 - INFO - Stopping parent process [1]
+2023-11-28 18:44:19 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:44:19 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-28 18:44:19 - INFO - Started parent process [1]
+2023-11-28 18:44:19 - INFO - Started parent process [1]
+2023-11-28 18:44:20 - INFO - Started server process [11]
+2023-11-28 18:44:20 - INFO - Started server process [11]
+2023-11-28 18:44:20 - INFO - Waiting for application startup.
+2023-11-28 18:44:20 - INFO - Waiting for application startup.
+2023-11-28 18:44:20 - INFO - Application startup complete.
+2023-11-28 18:44:20 - INFO - Application startup complete.
+2023-11-28 18:44:20 - INFO - Started server process [9]
+2023-11-28 18:44:20 - INFO - Started server process [8]
+2023-11-28 18:44:20 - INFO - Started server process [9]
+2023-11-28 18:44:20 - INFO - Started server process [8]
+2023-11-28 18:44:20 - INFO - Waiting for application startup.
+2023-11-28 18:44:20 - INFO - Waiting for application startup.
+2023-11-28 18:44:20 - INFO - Waiting for application startup.
+2023-11-28 18:44:20 - INFO - Waiting for application startup.
+2023-11-28 18:44:20 - INFO - Application startup complete.
+2023-11-28 18:44:20 - INFO - Application startup complete.
+2023-11-28 18:44:20 - INFO - Application startup complete.
+2023-11-28 18:44:20 - INFO - Application startup complete.
+2023-11-28 18:44:21 - INFO - Started server process [10]
+2023-11-28 18:44:21 - INFO - Started server process [10]
+2023-11-28 18:44:21 - INFO - Waiting for application startup.
+2023-11-28 18:44:21 - INFO - Waiting for application startup.
+2023-11-28 18:44:21 - INFO - Application startup complete.
+2023-11-28 18:44:21 - INFO - Application startup complete.
+2023-11-28 18:44:26 - INFO - 172.18.0.1:51060 - "POST /api/visualizations/lines/render HTTP/1.1" 200
+2023-11-28 18:44:26 - INFO - 172.18.0.1:51060 - "POST /api/visualizations/lines/render HTTP/1.1" 200
+2023-11-28 18:44:35 - INFO - 172.18.0.1:51070 - "POST /api/visualizations/lines/render HTTP/1.1" 200
+2023-11-28 18:44:35 - INFO - 172.18.0.1:51070 - "POST /api/visualizations/lines/render HTTP/1.1" 200
+2023-11-28 18:45:16 - INFO - 172.18.0.1:51078 - "POST /api/visualizations/lines/render HTTP/1.1" 200
+2023-11-28 18:45:16 - INFO - 172.18.0.1:51078 - "POST /api/visualizations/lines/render HTTP/1.1" 200
+2023-11-30 14:55:19 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-30 14:55:19 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-11-30 14:55:19 - INFO - Started parent process [1]
+2023-11-30 14:55:19 - INFO - Started parent process [1]
+2023-11-30 14:55:23 - INFO - Started server process [8]
+2023-11-30 14:55:23 - INFO - Started server process [9]
+2023-11-30 14:55:23 - INFO - Started server process [8]
+2023-11-30 14:55:23 - INFO - Started server process [9]
+2023-11-30 14:55:23 - INFO - Waiting for application startup.
+2023-11-30 14:55:23 - INFO - Waiting for application startup.
+2023-11-30 14:55:23 - INFO - Waiting for application startup.
+2023-11-30 14:55:23 - INFO - Waiting for application startup.
+2023-11-30 14:55:23 - INFO - Started server process [11]
+2023-11-30 14:55:23 - INFO - Application startup complete.
+2023-11-30 14:55:23 - INFO - Started server process [11]
+2023-11-30 14:55:23 - INFO - Application startup complete.
+2023-11-30 14:55:23 - INFO - Application startup complete.
+2023-11-30 14:55:23 - INFO - Waiting for application startup.
+2023-11-30 14:55:23 - INFO - Waiting for application startup.
+2023-11-30 14:55:23 - INFO - Application startup complete.
+2023-11-30 14:55:23 - INFO - Started server process [10]
+2023-11-30 14:55:23 - INFO - Application startup complete.
+2023-11-30 14:55:23 - INFO - Application startup complete.
+2023-11-30 14:55:23 - INFO - Started server process [10]
+2023-11-30 14:55:23 - INFO - Waiting for application startup.
+2023-11-30 14:55:23 - INFO - Waiting for application startup.
+2023-11-30 14:55:23 - INFO - Application startup complete.
+2023-11-30 14:55:23 - INFO - Application startup complete.
+2023-12-07 13:32:45 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-12-07 13:32:45 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-12-07 13:32:45 - INFO - Started parent process [1]
+2023-12-07 13:32:45 - INFO - Started parent process [1]
+2023-12-07 13:32:47 - INFO - Started server process [9]
+2023-12-07 13:32:47 - INFO - Started server process [9]
+2023-12-07 13:32:47 - INFO - Started server process [10]
+2023-12-07 13:32:47 - INFO - Waiting for application startup.
+2023-12-07 13:32:47 - INFO - Waiting for application startup.
+2023-12-07 13:32:47 - INFO - Started server process [10]
+2023-12-07 13:32:47 - INFO - Waiting for application startup.
+2023-12-07 13:32:47 - INFO - Application startup complete.
+2023-12-07 13:32:47 - INFO - Application startup complete.
+2023-12-07 13:32:47 - INFO - Waiting for application startup.
+2023-12-07 13:32:47 - INFO - Application startup complete.
+2023-12-07 13:32:47 - INFO - Application startup complete.
+2023-12-07 13:32:47 - INFO - Started server process [11]
+2023-12-07 13:32:47 - INFO - Started server process [8]
+2023-12-07 13:32:47 - INFO - Started server process [11]
+2023-12-07 13:32:47 - INFO - Started server process [8]
+2023-12-07 13:32:47 - INFO - Waiting for application startup.
+2023-12-07 13:32:47 - INFO - Waiting for application startup.
+2023-12-07 13:32:47 - INFO - Waiting for application startup.
+2023-12-07 13:32:47 - INFO - Waiting for application startup.
+2023-12-07 13:32:47 - INFO - Application startup complete.
+2023-12-07 13:32:47 - INFO - Application startup complete.
+2023-12-07 13:32:47 - INFO - Application startup complete.
+2023-12-07 13:32:47 - INFO - Application startup complete.
+2023-12-07 13:33:39 - INFO - Shutting down
+2023-12-07 13:33:39 - INFO - Shutting down
+2023-12-07 13:33:39 - INFO - Waiting for application shutdown.
+2023-12-07 13:33:39 - INFO - Waiting for application shutdown.
+2023-12-07 13:33:39 - INFO - Application shutdown complete.
+2023-12-07 13:33:39 - INFO - Application shutdown complete.
+2023-12-07 13:33:39 - INFO - Finished server process [8]
+2023-12-07 13:33:39 - INFO - Finished server process [8]
+2023-12-07 13:33:39 - INFO - Shutting down
+2023-12-07 13:33:39 - INFO - Shutting down
+2023-12-07 13:33:39 - INFO - Waiting for application shutdown.
+2023-12-07 13:33:39 - INFO - Waiting for application shutdown.
+2023-12-07 13:33:39 - INFO - Application shutdown complete.
+2023-12-07 13:33:39 - INFO - Application shutdown complete.
+2023-12-07 13:33:39 - INFO - Finished server process [9]
+2023-12-07 13:33:39 - INFO - Finished server process [9]
+2023-12-07 13:33:39 - INFO - Shutting down
+2023-12-07 13:33:39 - INFO - Shutting down
+2023-12-07 13:33:39 - INFO - Waiting for application shutdown.
+2023-12-07 13:33:39 - INFO - Waiting for application shutdown.
+2023-12-07 13:33:39 - INFO - Application shutdown complete.
+2023-12-07 13:33:39 - INFO - Application shutdown complete.
+2023-12-07 13:33:39 - INFO - Finished server process [10]
+2023-12-07 13:33:39 - INFO - Finished server process [10]
+2023-12-07 13:33:40 - INFO - Shutting down
+2023-12-07 13:33:40 - INFO - Shutting down
+2023-12-07 13:33:40 - INFO - Waiting for application shutdown.
+2023-12-07 13:33:40 - INFO - Waiting for application shutdown.
+2023-12-07 13:33:40 - INFO - Application shutdown complete.
+2023-12-07 13:33:40 - INFO - Application shutdown complete.
+2023-12-07 13:33:40 - INFO - Finished server process [11]
+2023-12-07 13:33:40 - INFO - Finished server process [11]
+2023-12-07 13:33:40 - INFO - Stopping parent process [1]
+2023-12-07 13:33:40 - INFO - Stopping parent process [1]
+2023-12-11 13:26:24 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-12-11 13:26:24 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-12-11 13:26:24 - INFO - Started parent process [1]
+2023-12-11 13:26:24 - INFO - Started parent process [1]
+2023-12-11 13:26:26 - INFO - Started server process [9]
+2023-12-11 13:26:26 - INFO - Started server process [9]
+2023-12-11 13:26:26 - INFO - Started server process [8]
+2023-12-11 13:26:26 - INFO - Waiting for application startup.
+2023-12-11 13:26:26 - INFO - Started server process [10]
+2023-12-11 13:26:26 - INFO - Waiting for application startup.
+2023-12-11 13:26:26 - INFO - Started server process [8]
+2023-12-11 13:26:26 - INFO - Started server process [10]
+2023-12-11 13:26:26 - INFO - Waiting for application startup.
+2023-12-11 13:26:26 - INFO - Application startup complete.
+2023-12-11 13:26:26 - INFO - Waiting for application startup.
+2023-12-11 13:26:26 - INFO - Waiting for application startup.
+2023-12-11 13:26:26 - INFO - Waiting for application startup.
+2023-12-11 13:26:26 - INFO - Started server process [11]
+2023-12-11 13:26:26 - INFO - Application startup complete.
+2023-12-11 13:26:26 - INFO - Application startup complete.
+2023-12-11 13:26:26 - INFO - Started server process [11]
+2023-12-11 13:26:26 - INFO - Application startup complete.
+2023-12-11 13:26:26 - INFO - Application startup complete.
+2023-12-11 13:26:26 - INFO - Application startup complete.
+2023-12-11 13:26:26 - INFO - Waiting for application startup.
+2023-12-11 13:26:26 - INFO - Waiting for application startup.
+2023-12-11 13:26:26 - INFO - Application startup complete.
+2023-12-11 13:26:26 - INFO - Application startup complete.
+2023-12-11 13:27:55 - INFO - 172.18.0.1:53740 - "GET /api/visualizations/bars/settings HTTP/1.1" 200
+2023-12-11 13:27:55 - INFO - 172.18.0.1:53740 - "GET /api/visualizations/bars/settings HTTP/1.1" 200
+2023-12-11 13:28:47 - INFO - 172.18.0.1:53748 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 13:28:47 - INFO - 172.18.0.1:53748 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 13:29:06 - INFO - 172.18.0.1:53758 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 13:29:06 - INFO - 172.18.0.1:53758 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 13:29:27 - INFO - 172.18.0.1:53766 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 13:29:27 - INFO - 172.18.0.1:53766 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 13:31:02 - INFO - Shutting down
+2023-12-11 13:31:02 - INFO - Shutting down
+2023-12-11 13:31:02 - INFO - Waiting for application shutdown.
+2023-12-11 13:31:02 - INFO - Waiting for application shutdown.
+2023-12-11 13:31:02 - INFO - Application shutdown complete.
+2023-12-11 13:31:02 - INFO - Application shutdown complete.
+2023-12-11 13:31:02 - INFO - Finished server process [8]
+2023-12-11 13:31:02 - INFO - Finished server process [8]
+2023-12-11 13:31:03 - INFO - Shutting down
+2023-12-11 13:31:03 - INFO - Shutting down
+2023-12-11 13:31:03 - INFO - Waiting for application shutdown.
+2023-12-11 13:31:03 - INFO - Waiting for application shutdown.
+2023-12-11 13:31:03 - INFO - Application shutdown complete.
+2023-12-11 13:31:03 - INFO - Application shutdown complete.
+2023-12-11 13:31:03 - INFO - Finished server process [9]
+2023-12-11 13:31:03 - INFO - Finished server process [9]
+2023-12-11 13:31:04 - INFO - Shutting down
+2023-12-11 13:31:04 - INFO - Shutting down
+2023-12-11 13:31:04 - INFO - Waiting for application shutdown.
+2023-12-11 13:31:04 - INFO - Waiting for application shutdown.
+2023-12-11 13:31:04 - INFO - Application shutdown complete.
+2023-12-11 13:31:04 - INFO - Application shutdown complete.
+2023-12-11 13:31:04 - INFO - Finished server process [10]
+2023-12-11 13:31:04 - INFO - Finished server process [10]
+2023-12-11 13:31:04 - INFO - Shutting down
+2023-12-11 13:31:04 - INFO - Shutting down
+2023-12-11 13:31:04 - INFO - Waiting for application shutdown.
+2023-12-11 13:31:04 - INFO - Waiting for application shutdown.
+2023-12-11 13:31:04 - INFO - Application shutdown complete.
+2023-12-11 13:31:04 - INFO - Application shutdown complete.
+2023-12-11 13:31:04 - INFO - Finished server process [11]
+2023-12-11 13:31:04 - INFO - Finished server process [11]
+2023-12-11 13:31:04 - INFO - Stopping parent process [1]
+2023-12-11 13:31:04 - INFO - Stopping parent process [1]
+2023-12-11 13:31:32 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-12-11 13:31:32 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-12-11 13:31:32 - INFO - Started parent process [1]
+2023-12-11 13:31:32 - INFO - Started parent process [1]
+2023-12-11 13:31:34 - INFO - Started server process [11]
+2023-12-11 13:31:34 - INFO - Started server process [11]
+2023-12-11 13:31:34 - INFO - Waiting for application startup.
+2023-12-11 13:31:34 - INFO - Waiting for application startup.
+2023-12-11 13:31:34 - INFO - Application startup complete.
+2023-12-11 13:31:34 - INFO - Application startup complete.
+2023-12-11 13:31:34 - INFO - Started server process [8]
+2023-12-11 13:31:34 - INFO - Started server process [8]
+2023-12-11 13:31:34 - INFO - Waiting for application startup.
+2023-12-11 13:31:34 - INFO - Waiting for application startup.
+2023-12-11 13:31:34 - INFO - Application startup complete.
+2023-12-11 13:31:34 - INFO - Application startup complete.
+2023-12-11 13:31:34 - INFO - Started server process [9]
+2023-12-11 13:31:34 - INFO - Started server process [9]
+2023-12-11 13:31:34 - INFO - Waiting for application startup.
+2023-12-11 13:31:34 - INFO - Waiting for application startup.
+2023-12-11 13:31:34 - INFO - Application startup complete.
+2023-12-11 13:31:34 - INFO - Application startup complete.
+2023-12-11 13:31:34 - INFO - Started server process [10]
+2023-12-11 13:31:34 - INFO - Started server process [10]
+2023-12-11 13:31:34 - INFO - Waiting for application startup.
+2023-12-11 13:31:34 - INFO - Waiting for application startup.
+2023-12-11 13:31:34 - INFO - Application startup complete.
+2023-12-11 13:31:34 - INFO - Application startup complete.
+2023-12-11 13:31:59 - INFO - 172.18.0.1:53772 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 13:31:59 - INFO - 172.18.0.1:53772 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 13:33:34 - INFO - Shutting down
+2023-12-11 13:33:34 - INFO - Shutting down
+2023-12-11 13:33:34 - INFO - Waiting for application shutdown.
+2023-12-11 13:33:34 - INFO - Waiting for application shutdown.
+2023-12-11 13:33:34 - INFO - Application shutdown complete.
+2023-12-11 13:33:34 - INFO - Application shutdown complete.
+2023-12-11 13:33:34 - INFO - Finished server process [8]
+2023-12-11 13:33:34 - INFO - Finished server process [8]
+2023-12-11 13:33:34 - INFO - Shutting down
+2023-12-11 13:33:34 - INFO - Shutting down
+2023-12-11 13:33:34 - INFO - Waiting for application shutdown.
+2023-12-11 13:33:34 - INFO - Waiting for application shutdown.
+2023-12-11 13:33:34 - INFO - Application shutdown complete.
+2023-12-11 13:33:34 - INFO - Application shutdown complete.
+2023-12-11 13:33:34 - INFO - Finished server process [9]
+2023-12-11 13:33:34 - INFO - Finished server process [9]
+2023-12-11 13:33:34 - INFO - Shutting down
+2023-12-11 13:33:34 - INFO - Shutting down
+2023-12-11 13:33:35 - INFO - Waiting for application shutdown.
+2023-12-11 13:33:35 - INFO - Waiting for application shutdown.
+2023-12-11 13:33:35 - INFO - Application shutdown complete.
+2023-12-11 13:33:35 - INFO - Application shutdown complete.
+2023-12-11 13:33:35 - INFO - Finished server process [10]
+2023-12-11 13:33:35 - INFO - Finished server process [10]
+2023-12-11 13:33:35 - INFO - Shutting down
+2023-12-11 13:33:35 - INFO - Shutting down
+2023-12-11 13:33:35 - INFO - Waiting for application shutdown.
+2023-12-11 13:33:35 - INFO - Waiting for application shutdown.
+2023-12-11 13:33:35 - INFO - Application shutdown complete.
+2023-12-11 13:33:35 - INFO - Application shutdown complete.
+2023-12-11 13:33:35 - INFO - Finished server process [11]
+2023-12-11 13:33:35 - INFO - Finished server process [11]
+2023-12-11 13:33:35 - INFO - Stopping parent process [1]
+2023-12-11 13:33:35 - INFO - Stopping parent process [1]
+2023-12-11 13:33:49 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-12-11 13:33:49 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-12-11 13:33:49 - INFO - Started parent process [1]
+2023-12-11 13:33:49 - INFO - Started parent process [1]
+2023-12-11 13:33:51 - INFO - Started server process [12]
+2023-12-11 13:33:51 - INFO - Started server process [12]
+2023-12-11 13:33:51 - INFO - Waiting for application startup.
+2023-12-11 13:33:51 - INFO - Waiting for application startup.
+2023-12-11 13:33:51 - INFO - Application startup complete.
+2023-12-11 13:33:51 - INFO - Application startup complete.
+2023-12-11 13:33:51 - INFO - Started server process [11]
+2023-12-11 13:33:51 - INFO - Started server process [11]
+2023-12-11 13:33:51 - INFO - Waiting for application startup.
+2023-12-11 13:33:51 - INFO - Waiting for application startup.
+2023-12-11 13:33:51 - INFO - Application startup complete.
+2023-12-11 13:33:51 - INFO - Application startup complete.
+2023-12-11 13:33:51 - INFO - Started server process [9]
+2023-12-11 13:33:51 - INFO - Started server process [9]
+2023-12-11 13:33:51 - INFO - Waiting for application startup.
+2023-12-11 13:33:51 - INFO - Waiting for application startup.
+2023-12-11 13:33:51 - INFO - Application startup complete.
+2023-12-11 13:33:51 - INFO - Application startup complete.
+2023-12-11 13:33:51 - INFO - Started server process [10]
+2023-12-11 13:33:51 - INFO - Started server process [10]
+2023-12-11 13:33:51 - INFO - Waiting for application startup.
+2023-12-11 13:33:51 - INFO - Waiting for application startup.
+2023-12-11 13:33:51 - INFO - Application startup complete.
+2023-12-11 13:33:51 - INFO - Application startup complete.
+2023-12-11 13:33:56 - INFO - 172.18.0.1:53784 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 13:33:56 - INFO - 172.18.0.1:53784 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 13:37:04 - INFO - Shutting down
+2023-12-11 13:37:04 - INFO - Shutting down
+2023-12-11 13:37:04 - INFO - Waiting for application shutdown.
+2023-12-11 13:37:04 - INFO - Waiting for application shutdown.
+2023-12-11 13:37:04 - INFO - Application shutdown complete.
+2023-12-11 13:37:04 - INFO - Application shutdown complete.
+2023-12-11 13:37:04 - INFO - Finished server process [9]
+2023-12-11 13:37:04 - INFO - Finished server process [9]
+2023-12-11 13:37:05 - INFO - Shutting down
+2023-12-11 13:37:05 - INFO - Shutting down
+2023-12-11 13:37:05 - INFO - Waiting for application shutdown.
+2023-12-11 13:37:05 - INFO - Waiting for application shutdown.
+2023-12-11 13:37:05 - INFO - Application shutdown complete.
+2023-12-11 13:37:05 - INFO - Application shutdown complete.
+2023-12-11 13:37:05 - INFO - Finished server process [10]
+2023-12-11 13:37:05 - INFO - Finished server process [10]
+2023-12-11 13:37:05 - INFO - Shutting down
+2023-12-11 13:37:05 - INFO - Shutting down
+2023-12-11 13:37:05 - INFO - Waiting for application shutdown.
+2023-12-11 13:37:05 - INFO - Waiting for application shutdown.
+2023-12-11 13:37:05 - INFO - Application shutdown complete.
+2023-12-11 13:37:05 - INFO - Application shutdown complete.
+2023-12-11 13:37:05 - INFO - Finished server process [11]
+2023-12-11 13:37:05 - INFO - Finished server process [11]
+2023-12-11 13:37:05 - INFO - Shutting down
+2023-12-11 13:37:05 - INFO - Shutting down
+2023-12-11 13:37:05 - INFO - Waiting for application shutdown.
+2023-12-11 13:37:05 - INFO - Waiting for application shutdown.
+2023-12-11 13:37:05 - INFO - Application shutdown complete.
+2023-12-11 13:37:05 - INFO - Application shutdown complete.
+2023-12-11 13:37:05 - INFO - Finished server process [12]
+2023-12-11 13:37:05 - INFO - Finished server process [12]
+2023-12-11 13:37:05 - INFO - Stopping parent process [1]
+2023-12-11 13:37:05 - INFO - Stopping parent process [1]
+2023-12-11 13:37:12 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-12-11 13:37:12 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-12-11 13:37:12 - INFO - Started parent process [1]
+2023-12-11 13:37:12 - INFO - Started parent process [1]
+2023-12-11 13:37:14 - INFO - Started server process [10]
+2023-12-11 13:37:14 - INFO - Started server process [10]
+2023-12-11 13:37:14 - INFO - Waiting for application startup.
+2023-12-11 13:37:14 - INFO - Waiting for application startup.
+2023-12-11 13:37:14 - INFO - Application startup complete.
+2023-12-11 13:37:14 - INFO - Application startup complete.
+2023-12-11 13:37:14 - INFO - Started server process [9]
+2023-12-11 13:37:14 - INFO - Started server process [9]
+2023-12-11 13:37:14 - INFO - Started server process [8]
+2023-12-11 13:37:14 - INFO - Started server process [8]
+2023-12-11 13:37:14 - INFO - Waiting for application startup.
+2023-12-11 13:37:14 - INFO - Waiting for application startup.
+2023-12-11 13:37:14 - INFO - Waiting for application startup.
+2023-12-11 13:37:14 - INFO - Waiting for application startup.
+2023-12-11 13:37:14 - INFO - Application startup complete.
+2023-12-11 13:37:14 - INFO - Application startup complete.
+2023-12-11 13:37:14 - INFO - Application startup complete.
+2023-12-11 13:37:14 - INFO - Application startup complete.
+2023-12-11 13:37:14 - INFO - Started server process [11]
+2023-12-11 13:37:14 - INFO - Started server process [11]
+2023-12-11 13:37:14 - INFO - Waiting for application startup.
+2023-12-11 13:37:14 - INFO - Waiting for application startup.
+2023-12-11 13:37:14 - INFO - Application startup complete.
+2023-12-11 13:37:14 - INFO - Application startup complete.
+2023-12-11 13:37:35 - INFO - 172.18.0.1:53792 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 13:37:35 - INFO - 172.18.0.1:53792 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 13:37:47 - INFO - Shutting down
+2023-12-11 13:37:47 - INFO - Shutting down
+2023-12-11 13:37:47 - INFO - Waiting for application shutdown.
+2023-12-11 13:37:47 - INFO - Waiting for application shutdown.
+2023-12-11 13:37:47 - INFO - Application shutdown complete.
+2023-12-11 13:37:47 - INFO - Application shutdown complete.
+2023-12-11 13:37:47 - INFO - Finished server process [8]
+2023-12-11 13:37:47 - INFO - Finished server process [8]
+2023-12-11 13:37:47 - INFO - Shutting down
+2023-12-11 13:37:47 - INFO - Shutting down
+2023-12-11 13:37:47 - INFO - Waiting for application shutdown.
+2023-12-11 13:37:47 - INFO - Waiting for application shutdown.
+2023-12-11 13:37:47 - INFO - Application shutdown complete.
+2023-12-11 13:37:47 - INFO - Application shutdown complete.
+2023-12-11 13:37:47 - INFO - Finished server process [9]
+2023-12-11 13:37:47 - INFO - Finished server process [9]
+2023-12-11 13:37:47 - INFO - Shutting down
+2023-12-11 13:37:47 - INFO - Shutting down
+2023-12-11 13:37:47 - INFO - Waiting for application shutdown.
+2023-12-11 13:37:47 - INFO - Waiting for application shutdown.
+2023-12-11 13:37:47 - INFO - Application shutdown complete.
+2023-12-11 13:37:47 - INFO - Application shutdown complete.
+2023-12-11 13:37:47 - INFO - Finished server process [10]
+2023-12-11 13:37:47 - INFO - Finished server process [10]
+2023-12-11 13:37:48 - INFO - Shutting down
+2023-12-11 13:37:48 - INFO - Shutting down
+2023-12-11 13:37:48 - INFO - Waiting for application shutdown.
+2023-12-11 13:37:48 - INFO - Waiting for application shutdown.
+2023-12-11 13:37:48 - INFO - Application shutdown complete.
+2023-12-11 13:37:48 - INFO - Application shutdown complete.
+2023-12-11 13:37:48 - INFO - Finished server process [11]
+2023-12-11 13:37:48 - INFO - Finished server process [11]
+2023-12-11 13:37:48 - INFO - Stopping parent process [1]
+2023-12-11 13:37:48 - INFO - Stopping parent process [1]
+2023-12-11 13:38:16 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-12-11 13:38:16 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-12-11 13:38:16 - INFO - Started parent process [1]
+2023-12-11 13:38:16 - INFO - Started parent process [1]
+2023-12-11 13:38:18 - INFO - Started server process [8]
+2023-12-11 13:38:18 - INFO - Started server process [8]
+2023-12-11 13:38:18 - INFO - Waiting for application startup.
+2023-12-11 13:38:18 - INFO - Waiting for application startup.
+2023-12-11 13:38:18 - INFO - Application startup complete.
+2023-12-11 13:38:18 - INFO - Application startup complete.
+2023-12-11 13:38:18 - INFO - Started server process [9]
+2023-12-11 13:38:18 - INFO - Started server process [9]
+2023-12-11 13:38:18 - INFO - Waiting for application startup.
+2023-12-11 13:38:18 - INFO - Waiting for application startup.
+2023-12-11 13:38:18 - INFO - Application startup complete.
+2023-12-11 13:38:18 - INFO - Application startup complete.
+2023-12-11 13:38:18 - INFO - Started server process [10]
+2023-12-11 13:38:18 - INFO - Started server process [10]
+2023-12-11 13:38:18 - INFO - Waiting for application startup.
+2023-12-11 13:38:18 - INFO - Waiting for application startup.
+2023-12-11 13:38:18 - INFO - Application startup complete.
+2023-12-11 13:38:18 - INFO - Application startup complete.
+2023-12-11 13:38:18 - INFO - Started server process [11]
+2023-12-11 13:38:18 - INFO - Started server process [11]
+2023-12-11 13:38:18 - INFO - Waiting for application startup.
+2023-12-11 13:38:18 - INFO - Waiting for application startup.
+2023-12-11 13:38:18 - INFO - Application startup complete.
+2023-12-11 13:38:18 - INFO - Application startup complete.
+2023-12-11 13:38:25 - INFO - 172.18.0.1:53800 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 13:38:25 - INFO - 172.18.0.1:53800 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 13:46:26 - INFO - Shutting down
+2023-12-11 13:46:26 - INFO - Shutting down
+2023-12-11 13:46:26 - INFO - Waiting for application shutdown.
+2023-12-11 13:46:26 - INFO - Waiting for application shutdown.
+2023-12-11 13:46:26 - INFO - Application shutdown complete.
+2023-12-11 13:46:26 - INFO - Application shutdown complete.
+2023-12-11 13:46:26 - INFO - Finished server process [8]
+2023-12-11 13:46:26 - INFO - Finished server process [8]
+2023-12-11 13:46:26 - INFO - Shutting down
+2023-12-11 13:46:26 - INFO - Shutting down
+2023-12-11 13:46:26 - INFO - Waiting for application shutdown.
+2023-12-11 13:46:26 - INFO - Waiting for application shutdown.
+2023-12-11 13:46:26 - INFO - Application shutdown complete.
+2023-12-11 13:46:26 - INFO - Application shutdown complete.
+2023-12-11 13:46:26 - INFO - Finished server process [9]
+2023-12-11 13:46:26 - INFO - Finished server process [9]
+2023-12-11 13:46:26 - INFO - Shutting down
+2023-12-11 13:46:26 - INFO - Shutting down
+2023-12-11 13:46:26 - INFO - Waiting for application shutdown.
+2023-12-11 13:46:26 - INFO - Waiting for application shutdown.
+2023-12-11 13:46:26 - INFO - Application shutdown complete.
+2023-12-11 13:46:26 - INFO - Application shutdown complete.
+2023-12-11 13:46:26 - INFO - Finished server process [10]
+2023-12-11 13:46:26 - INFO - Finished server process [10]
+2023-12-11 13:46:26 - INFO - Shutting down
+2023-12-11 13:46:26 - INFO - Shutting down
+2023-12-11 13:46:27 - INFO - Waiting for application shutdown.
+2023-12-11 13:46:27 - INFO - Waiting for application shutdown.
+2023-12-11 13:46:27 - INFO - Application shutdown complete.
+2023-12-11 13:46:27 - INFO - Application shutdown complete.
+2023-12-11 13:46:27 - INFO - Finished server process [11]
+2023-12-11 13:46:27 - INFO - Finished server process [11]
+2023-12-11 13:46:27 - INFO - Stopping parent process [1]
+2023-12-11 13:46:27 - INFO - Stopping parent process [1]
+2023-12-11 13:46:33 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-12-11 13:46:33 - INFO - Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+2023-12-11 13:46:33 - INFO - Started parent process [1]
+2023-12-11 13:46:33 - INFO - Started parent process [1]
+2023-12-11 13:46:35 - INFO - Started server process [11]
+2023-12-11 13:46:35 - INFO - Started server process [12]
+2023-12-11 13:46:35 - INFO - Started server process [12]
+2023-12-11 13:46:35 - INFO - Waiting for application startup.
+2023-12-11 13:46:35 - INFO - Waiting for application startup.
+2023-12-11 13:46:35 - INFO - Started server process [11]
+2023-12-11 13:46:35 - INFO - Application startup complete.
+2023-12-11 13:46:35 - INFO - Waiting for application startup.
+2023-12-11 13:46:35 - INFO - Application startup complete.
+2023-12-11 13:46:35 - INFO - Waiting for application startup.
+2023-12-11 13:46:35 - INFO - Application startup complete.
+2023-12-11 13:46:35 - INFO - Application startup complete.
+2023-12-11 13:46:35 - INFO - Started server process [9]
+2023-12-11 13:46:35 - INFO - Started server process [9]
+2023-12-11 13:46:35 - INFO - Waiting for application startup.
+2023-12-11 13:46:35 - INFO - Waiting for application startup.
+2023-12-11 13:46:35 - INFO - Application startup complete.
+2023-12-11 13:46:35 - INFO - Application startup complete.
+2023-12-11 13:46:35 - INFO - Started server process [10]
+2023-12-11 13:46:35 - INFO - Started server process [10]
+2023-12-11 13:46:35 - INFO - Waiting for application startup.
+2023-12-11 13:46:35 - INFO - Waiting for application startup.
+2023-12-11 13:46:35 - INFO - Application startup complete.
+2023-12-11 13:46:35 - INFO - Application startup complete.
+2023-12-11 13:46:43 - INFO - 172.18.0.1:53808 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 13:46:43 - INFO - 172.18.0.1:53808 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 14:06:14 - INFO - 172.18.0.1:53816 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 14:06:14 - INFO - 172.18.0.1:53816 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 14:06:17 - INFO - 172.18.0.1:53816 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 14:06:17 - INFO - 172.18.0.1:53816 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 14:06:19 - INFO - 172.18.0.1:53816 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 14:06:19 - INFO - 172.18.0.1:53816 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 14:06:23 - INFO - 172.18.0.1:53824 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 14:06:23 - INFO - 172.18.0.1:53824 - "POST /api/visualizations/bars/render HTTP/1.1" 200
+2023-12-11 15:10:06 - INFO - Shutting down
+2023-12-11 15:10:06 - INFO - Shutting down
+2023-12-11 15:10:06 - INFO - Waiting for application shutdown.
+2023-12-11 15:10:06 - INFO - Waiting for application shutdown.
+2023-12-11 15:10:06 - INFO - Application shutdown complete.
+2023-12-11 15:10:06 - INFO - Application shutdown complete.
+2023-12-11 15:10:06 - INFO - Finished server process [9]
+2023-12-11 15:10:06 - INFO - Finished server process [9]
+2023-12-11 15:10:07 - INFO - Shutting down
+2023-12-11 15:10:07 - INFO - Shutting down
+2023-12-11 15:10:07 - INFO - Waiting for application shutdown.
+2023-12-11 15:10:07 - INFO - Waiting for application shutdown.
+2023-12-11 15:10:07 - INFO - Application shutdown complete.
+2023-12-11 15:10:07 - INFO - Application shutdown complete.
+2023-12-11 15:10:07 - INFO - Finished server process [10]
+2023-12-11 15:10:07 - INFO - Finished server process [10]
+2023-12-11 15:10:07 - INFO - Shutting down
+2023-12-11 15:10:07 - INFO - Shutting down
+2023-12-11 15:10:07 - INFO - Waiting for application shutdown.
+2023-12-11 15:10:07 - INFO - Waiting for application shutdown.
+2023-12-11 15:10:07 - INFO - Application shutdown complete.
+2023-12-11 15:10:07 - INFO - Application shutdown complete.
+2023-12-11 15:10:07 - INFO - Finished server process [11]
+2023-12-11 15:10:07 - INFO - Finished server process [11]
+2023-12-11 15:10:08 - INFO - Shutting down
+2023-12-11 15:10:08 - INFO - Shutting down
+2023-12-11 15:10:08 - INFO - Waiting for application shutdown.
+2023-12-11 15:10:08 - INFO - Waiting for application shutdown.
+2023-12-11 15:10:08 - INFO - Application shutdown complete.
+2023-12-11 15:10:08 - INFO - Application shutdown complete.
+2023-12-11 15:10:08 - INFO - Finished server process [12]
+2023-12-11 15:10:08 - INFO - Finished server process [12]
+2023-12-11 15:10:08 - INFO - Stopping parent process [1]
+2023-12-11 15:10:08 - INFO - Stopping parent process [1]

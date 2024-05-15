@@ -1,0 +1,7 @@
+{"width": 400.0, "height": 300.0, "dpi": 96, "font": {"name": "Arial", "size": 9, "color": "#333333", "isBold": False, "isItalic": False, "isUnderline": Fal
+se}, "feeding": [{"id": "x-axis"}, {"id": "y-axis"}], "data": [], "instance": {"documentId": "AQwrFPMxWVJMnZ89vmw3e0k", "instanceId": "46946b6b78905d344d7ac
+dd4baa8c2a92cb4178b4cd96d90477c462b3a41ea3c", "reportId": "5", "blockId": "205", "iref": "5.3D", "uiref": "UIREF:RID=5:BID=205"}, "settings": [{"property":
+"method", "region": "choropleth", "value": "q"}, {"property": "colors", "region": "choropleth", "value": "viridis"}, {"property": "tile", "region": "tiles",
+ "value": "CartoDB Positron"}], "customProperties": [], "palette": ["#74abe2ff", "#ef8d5dff", "#3fb68eff", "#f06a93ff", "#a97dd8ff", "#3ab5c2ff", "#6973f6ff
+", "#cd59b1ff", "#8ca2abff", "#f38787ff", "#4d78a2ff", "#1866b4ff", "#cc4300ff", "#03734dff", "#d70947ff", "#772acbff", "#087783ff", "#2531d4ff", "#921473ff
+", "#3c6372ff", "#d62f2fff", "#144b7fff"]}

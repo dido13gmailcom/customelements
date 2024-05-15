@@ -1,0 +1,133 @@
+{
+    "regions":[
+       {
+        "id":"legend",
+        "name":"Legend",
+        "groups":[
+        {
+         "name":"Design",
+         "categories":[
+         {
+          "name":"General",
+          "description":"General design properties",
+          "properties":[
+             {
+              "id":"isVisible",
+              "name":"Visible ?",
+              "description":"Indicates if title of the visualization is displayed or not",
+              "type":"boolean",
+              "default":"true"
+             },
+             {
+              "id":"font",
+              "name":"Font",
+              "description":"Font of the legend.",
+              "type":"font",
+              "default":"",
+              "properties":[
+                 {
+                  "id":"name",
+                  "name":"Font name",
+                  "description":"Font name",
+                  "type":"string",
+                  "default":"arial"
+                 },
+                 {
+                  "id":"size",
+                  "name":"Font size",
+                  "description":"Font size",
+                  "type":"integer",
+                  "default":"8"
+                 },
+                 {
+                  "id":"bold",
+                  "name":"Is bold?",
+                  "description":"Is bold?",
+                  "type":"boolean",
+                  "default":"false"
+                 },
+                 {
+                  "id":"italic",
+                  "name":"Is italic?",
+                  "description":"Is italic?",
+                  "type":"boolean",
+                  "default":"false"
+                 },
+                 {
+                  "id":"underline",
+                  "name":"Is underline?",
+                  "description":"Is underline?",
+                  "type":"boolean",
+                  "default":"false"
+                 },
+                 {
+                  "id":"color",
+                  "name":"Font color",
+                  "description":"Font color",
+                  "type":"color",
+                  "default":"#ffffffff"
+                 }
+               ]
+             },
+             {
+              "id":"backgroundColor",
+              "name":"Background color",
+              "description":"Background color",
+              "type":"color",
+              "default":"#d0d0d0cc"
+             }
+          ]
+         },
+         {
+          "name":"Layout",
+          "description":"Layout properties",
+          "properties":[
+             {
+              "id":"location",
+              "name":"Location",
+              "description":"Indicates where the title should be displayed",
+              "type":"state",
+              "default":"right",
+              "choices":[
+                 {
+                  "id":"top",
+                  "name":"Top",
+                  "description":"Display title at the top."
+                 },
+                 {
+                  "id":"left",
+                  "name":"Left",
+                  "description":"Display title on the left."
+                 },
+                 {
+                  "id":"bottom",
+                  "name":"Bottom",
+                  "description":"Display title at the bottom."
+                 },
+                 {
+                  "id":"right",
+                  "name":"Right",
+                  "description":"Display title on the right."
+                 }
+              ]
+             },
+             {
+              "id":"spacing",
+              "name":"Spacing",
+              "description":"Indicates space between items",
+              "type":"integer",
+              "default":"4",
+              "parameters":{
+                 "min":"2",
+                 "max":"6",
+                 "step":"1"
+              }
+             }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }

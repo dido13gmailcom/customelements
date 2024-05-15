@@ -1,0 +1,168 @@
+{
+    "width": 400.0,
+    "height": 300.0,
+    "dpi": 96,
+    "font": {
+        "name": "Arial",
+        "size": 9,
+        "color": "#333333",
+        "isBold": false,
+        "isItalic": false,
+        "isUnderline": false
+    },
+    "feeding": [
+        {
+            "id": "x-axis",
+            "expressions": [
+                {
+                    "dataId": 1
+                }
+            ]
+        },
+        {
+            "id": "y-axis",
+            "expressions": [
+                {
+                    "dataId": 3
+                },
+                {
+                    "dataId": 5
+                }
+            ]
+        },
+        {
+            "id": "legend"
+        }
+    ],
+    "data": [
+        {
+            "values": {
+                "dataType": "string",
+                "dataStructure": "simple",
+                "rawvalues": [
+                    "Austin",
+                    "Boston",
+                    "Chicago",
+                    "Colorado Springs",
+                    "Dallas",
+                    "Houston",
+                    "Los Angeles",
+                    "Miami",
+                    "New York",
+                    "San Francisco",
+                    "Washington"
+                ],
+                "cardinality": 1
+            },
+            "id": "1",
+            "title": "City",
+            "type": "dimension"
+        },
+        {
+            "values": {
+                "formattedvalues": [
+                    "17,078",
+                    "7,676",
+                    "17,976",
+                    "12,787",
+                    "12,365",
+                    "32,904",
+                    "26,244",
+                    "11,267",
+                    "46,358",
+                    "19,830",
+                    "18,744"
+                ],
+                "dataType": "double",
+                "dataStructure": "simple",
+                "rawvalues": [
+                    17078,
+                    7676,
+                    17976,
+                    12787,
+                    12365,
+                    32904,
+                    26244,
+                    11267,
+                    46358,
+                    19830,
+                    18744
+                ],
+                "cardinality": 1
+            },
+            "id": "3",
+            "title": "Quantity sold",
+            "type": "measure"
+        },
+        {
+            "values": {
+                "formattedvalues": [
+                    "$2,699,673",
+                    "$1,283,707",
+                    "$3,022,658",
+                    "$2,060,275",
+                    "$1,970,034",
+                    "$5,447,957",
+                    "$4,220,929",
+                    "$1,879,159",
+                    "$7,582,221",
+                    "$3,258,641",
+                    "$2,961,950"
+                ],
+                "dataType": "double",
+                "dataStructure": "simple",
+                "rawvalues": [
+                    2699673.2,
+                    1283706.6,
+                    3022658.4,
+                    2060275.2,
+                    1970034.2,
+                    5447956.9,
+                    4220928.8,
+                    1879158.5,
+                    7582220.6,
+                    3258640.5,
+                    2961949.9
+                ],
+                "cardinality": 1
+            },
+            "id": "5",
+            "title": "Sales revenue",
+            "type": "measure"
+        }
+    ],
+    "instance": {
+        "documentId": "AQwrFPMxWVJMnZ89vmw3e0k",
+        "instanceId": "5c4a2598234ea50a71d34f310072ed4a911e44fb855519573f81c5d6163a6134",
+        "reportId": "5",
+        "blockId": "203",
+        "iref": "5.3B",
+        "uiref": "UIREF:RID=5:BID=203"
+    },
+    "settings": [],
+    "customProperties": [],
+    "palette": [
+        "#74abe2ff",
+        "#ef8d5dff",
+        "#3fb68eff",
+        "#f06a93ff",
+        "#a97dd8ff",
+        "#3ab5c2ff",
+        "#6973f6ff",
+        "#cd59b1ff",
+        "#8ca2abff",
+        "#f38787ff",
+        "#4d78a2ff",
+        "#1866b4ff",
+        "#cc4300ff",
+        "#03734dff",
+        "#d70947ff",
+        "#772acbff",
+        "#087783ff",
+        "#2531d4ff",
+        "#921473ff",
+        "#3c6372ff",
+        "#d62f2fff",
+        "#144b7fff"
+    ]
+}
