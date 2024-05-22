@@ -1,0 +1,34 @@
+version: 2.0.0 # aca schema version
+info:
+  version: 0.0.1
+  description: Custom Elements - Openshift
+global-env:
+  - CONTAINER_DOCKERFILE_PATH: Dockerfile
+  - CONTAINER_IMAGE_NAME: custom-elements
+  - DEPLOYMENT_TYPE: DeploymentConfig
+components:
+  - deployment:
+      scm: https://git.intranet.gencat.cat/9999/nginx/orchestrators.git
+      environments:
+        - name: preproduction
+          actions:
+            deploy:
+              steps:
+                - execution:
+                    env:
+                      - DESCRIPTORS_PATH: preproduccio/custom-elements
+                      - DEPLOYMENT_NAME: custom-elements
+                      - DEPLOYMENT_WAIT: 600
+        - name: production
+          actions:
+            deploy:
+              steps:
+                - execution:
+                    env:
+                      - DESCRIPTORS_PATH: produccio/custom-elements
+                      - DEPLOYMENT_NAME: custom-elements
+                      - DEPLOYMENT_WAIT: 600
+notifications:
+  email:
+    recipients:
+      - juan.guillem_gov.ext@gencat.cat
